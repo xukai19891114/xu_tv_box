@@ -30,6 +30,10 @@
 	{
 		"name": "多爬虫",
 		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xukai19891114/xu_tv_box/main/my-tvbox-custom/config/多爬虫.json"
+	},
+	{
+		"name": "xu10",
+		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xukai19891114/xu_tv_box/main/my-tvbox-custom/config/xu10.json"
 	}
 	]
 }
