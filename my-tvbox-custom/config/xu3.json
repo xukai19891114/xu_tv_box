@@ -7,16 +7,16 @@
 "sites": [
 //Date and personal sites
 {"key":"date","name":"🐈‍🐈 0531 🐈‍🐈‍","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"fffollow","name":"👍0515","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00title0515.json","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"fffollow","name":"👍0515","type":4,"api":"https://mirror.ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title0515.json","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"ff001","name":"🔍豆瓣","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 //{"key":"ff001","name":"🔍豆瓣","type":3,"api":"https://github.com/c120487/00/raw/main/api/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://github.com/c120487/00/raw/main/ext/豆瓣.js"},
 
 //
 //
 //主題
-{"key":"ffDrama","name":"📺Drama","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00Drama0515.json","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"ffMarvel","name":"📽Marvel‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00MarvelbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"ffDC","name":"📽DC‍","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/api/00DCbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"ffDrama","name":"📺Drama","type":4,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00Drama0515.json","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"ffMarvel","name":"📽Marvel‍","type":4,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00MarvelbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"ffDC","name":"📽DC‍","type":4,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00DCbyTime.json","searchable":0,"quickSearch":0,"filterable":1},
 
 //
 //
@@ -24,13 +24,13 @@
 //Basic sites,filterable
 
 {"key":"Local","name":"🗃本地播放","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
-//{"key":"WebDAV","name":"📀WebDAV","type":3,"api":"csp_WebDAV","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/webdav0515.txt","jar":"https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
+//{"key":"WebDAV","name":"📀WebDAV","type":3,"api":"csp_WebDAV","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/webdav0515.txt","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 //{"key":"Alist","name":"🌐AList","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json"},
 
-{"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"changeable": 0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00bili0515.json"},
+{"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"changeable": 0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/00bili0515.json"},
 
 
-{"key":"fflive","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"Peter$https://raw.githubusercontent.com/c120487/00/main/ext/live0515.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
+{"key":"fflive","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"Peter$https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/live0515.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
 
 
 //
@@ -62,9 +62,9 @@
 
 
 
-{"key":"ee002","name":"🍀宝仙HD","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/宝仙HD.json"},
-{"key":"ee003","name":"🍀蓝光影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/xBPQ/蓝光影院.json"},
-{"key":"ee001","name":"🍀小寶","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/小寶.json"},
+{"key":"ee002","name":"🍀宝仙HD","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/xBPQ/宝仙HD.json"},
+{"key":"ee003","name":"🍀蓝光影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/xBPQ/蓝光影院.json"},
+{"key":"ee001","name":"🍀小寶","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/小寶.json"},
 
 {"key":"cc001","name":"🕵吼吼","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/吼吼[飞].js"},
 {"key":"cc002","name":"🕵if101","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/if101[飞].js"},
@@ -81,9 +81,9 @@
 
 
 
-{"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"changeable": 0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00bili0515.json"},
-//{"key":"fflive","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","ext":"Peter$https://raw.githubusercontent.com/c120487/00/main/00live0515.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
-{"key":"fflive","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"Peter$https://raw.githubusercontent.com/c120487/00/main/ext/live0515.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
+{"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"changeable": 0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/00bili0515.json"},
+//{"key":"fflive","name":"💻电视直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/直播转点播.js","ext":"Peter$https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00live0515.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
+{"key":"fflive","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"Peter$https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/live0515.txt#南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#肥猫$http://我不是.肥猫.love:63/TV/tvzb.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},
 
 //{"key":"fflive","name":"🗂豆瓣2","type":3,"api":"https://github.com/c120487/dr_py/raw/master/libs/drpy.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.com/c120487/dr_py/raw/master/js/drpy.js"},
 //{"key":"fflive","name":"豆瓣推荐","type":3,"api":"http://v.tvfan.top:88/tvbox/js/drpy.min.js","ext":"http://v.tvfan.top:88/tvbox/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
@@ -210,24 +210,24 @@
 // https://www.zxzj.vip/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html
 // https://www.zxzj.vip/list/{cateId}-{catePg}.html
 {"key":"11XBPQ","name":"💢💢XBPQ💢💢","type":0,"api":""},  
-{"key":"csp_XBPQ_OLE","name":"💢OLE（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/OLE.json"},
+{"key":"csp_XBPQ_OLE","name":"💢OLE（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/OLE.json"},
 {"key":"xbOLE","name":"🧸OLE(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://olevodtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"},
 {"key":"xbpqOLE","name":"🧸OLE(XBPQ)","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://olevodtv.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"},
 
 
-{"key":"csp_XBPQ_爱看","name":"💢爱看（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/爱看.json"},
+{"key":"csp_XBPQ_爱看","name":"💢爱看（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/爱看.json"},
 {"key":"xbikan","name":"🧸ikan(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---2023/"},
 {"key":"xbpqikan","name":"🧸ikan(XBPQ)","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ikan6.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---2023/"},
 
-{"key":"csp_XBPQ_六度","name":"💢六度（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/六度.json"},
+{"key":"csp_XBPQ_六度","name":"💢六度（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/六度.json"},
 {"key":"xb6dd","name":"🧸6dd(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://6dd.abygvar.cn/whole/{cateId}_{area}_{class}__{year}___0_{by}_{catePg}.html"},
 {"key":"xbpq6dd","name":"🧸6dd(XBPQ)","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://6dd.abygvar.cn/whole/{cateId}_{area}_{class}__{year}___0_{by}_{catePg}.html"},
 
-{"key":"csp_XBPQ_乐猪","name":"💢乐猪（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/乐猪.json"},
+{"key":"csp_XBPQ_乐猪","name":"💢乐猪（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/乐猪.json"},
 {"key":"xblezhu","name":"🧸lezhu(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lezhutv.com/list/{cateId}_{catePg}_desc_{by}_0_0___.html"},
 {"key":"xbpqlezhu","name":"🧸lezhu(XBPQ)","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.lezhutv.com/list/{cateId}_{catePg}_desc_{by}_0_0___.html"},
 
-{"key":"csp_XBPQ_零零七","name":"💢零零七（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/零零七影视.json"},
+{"key":"csp_XBPQ_零零七","name":"💢零零七（XBPQ）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/零零七影视.json"},
 {"key":"xb007","name":"🧸007(XBiu)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.007ts.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
 {"key":"xbpq007","name":"🧸007(XBPQ)","type":3,"api":"csp_XBPQe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.007ts.me/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},
 
@@ -403,20 +403,20 @@
 //special function
 
 {"key":"cloud0114","name":"☁☁Cloud☁☁","type":0,"api":""},
-//{"key":"csp_AList","name":"🅰AList(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00alist0000.json","jumpDetail":0,"reversePlay":0,"enable":1},
-//{"key":"js_Alist","name":"Alist(js)","type":3,"api":"https://raw.githubusercontent.com/c120487/dr_py/master/libs/alist.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/00alist0000.json"},
+//{"key":"csp_AList","name":"🅰AList(SP)","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/00alist0000.json","jumpDetail":0,"reversePlay":0,"enable":1},
+//{"key":"js_Alist","name":"Alist(js)","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/dr_py/master/libs/alist.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/00alist0000.json"},
 //{"key":"csp_Paper","name":"📜小纸条Paper","type":3,"api":"csp_Paper","searchable":0,"quickSearch":0,"filterable":1,"ext": "https://gitee.com/babyisbreath/babyish/raw/master/token.txt"},
-//{"key":"Gitcafe","name":"📜小纸条Gitcafe","type":3,"api":"csp_Gitcafe","searchable":0,"quickSearch":0,"filterable":1,"playerType":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/vwnp4a7z.json","jar":"https://www.yydsys.top/duo/jar/duox.jar"},
+//{"key":"Gitcafe","name":"📜小纸条Gitcafe","type":3,"api":"csp_Gitcafe","searchable":0,"quickSearch":0,"filterable":1,"playerType":1,"ext": "https://ghproxy.com/https://mirror.ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/vwnp4a7z.json","jar":"https://www.yydsys.top/duo/jar/duox.jar"},
 
 {"key":"Tbook","name":"📚听书网","type":3,"api":"csp_Dora","searchable":0,"quickSearch":0,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://github.com/c120487/00/blob/main/jar/Dora.jar?raw=true"},
-{"key":"00NMTV","name":"️🖥️柠檬TV","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/c120487/00/main/ext/nmtv.json"},
+{"key":"00NMTV","name":"️🖥️柠檬TV","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/ext/nmtv.json"},
 
 //{"key":"csp_XYQ_kgmv","name":"🌐酷狗MV","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://47.242.90.42:8888/down/9xHiIEai0Jyy"},
 {"key":"Sport","name":"⚽Sport","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"0","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837","jar":"https://github.com/c120487/00/blob/main/jar/Dora.jar?raw=true"},
 {"key":"世界杯record","name":"⚽世界杯回放","type":4,"api":"http://120.53.102.254/t4/sjb","searchable":0,"quickSearch":0,"filterable":1},
 
-{"key":"ff1028","name":"👍1028","type":4,"api":"https://raw.githubusercontent.com/c120487/00/main/00title1028.json","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"ffBBB1028","name":"🌐Bili1028","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/c120487/00/main/00bili1028.json"},
+{"key":"ff1028","name":"👍1028","type":4,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00title1028.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"ffBBB1028","name":"🌐Bili1028","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00bili1028.json"},
 
 
 //
