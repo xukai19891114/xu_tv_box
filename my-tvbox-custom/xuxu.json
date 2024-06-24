@@ -1,0 +1,23 @@
+{
+	"urls": [{
+		"name": "xuxu1",
+		"url": "https://codeberg.org/xukai1989/XuxuTVB/raw/branch/main/my-tvbox-custom/config/xu1.json"
+	},
+	{
+		"name": "xuxu2",
+		"url": "https://codeberg.org/xukai1989/XuxuTVB/raw/branch/main/my-tvbox-custom/config/xu2.json"
+	},
+	{
+		"name": "xuxu3",
+		"url": "https://codeberg.org/xukai1989/XuxuTVB/raw/branch/main/my-tvbox-custom/config/xu3.json"
+	},
+	{
+		"name": "xuxu4",
+		"url": "https://codeberg.org/xukai1989/XuxuTVB/raw/branch/main/my-tvbox-custom/config/xu4.json"
+	},
+	{
+		"name": "xu5-4k",
+		"url": "https://codeberg.org/xukai1989/XuxuTVB/raw/branch/main/my-tvbox-custom/config/xu5-4k.json"
+	}
+	]
+}

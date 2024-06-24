@@ -1,0 +1,13 @@
+{
+  "wallpaper":"https://picsum.photos/1280/720",
+  "spider": "https://codeberg.org/xukai1989/XuxuTVB/raw/branch/main/mytest/jar/xuxu.jar;md5;c2fa74f10c36e76e2dbf4d6f27444e88",
+  
+
+  "sites":[
+    {"key":"csp_JavDb","name":"jav","type":3,"api":"csp_JavDb","searchable":1},
+    {"key":"csp_Jable","name":"Jable","type":3,"api":"csp_Jable","searchable":1},
+    {"key":"csp_Jianpian","name":"Jianpian","type":3,"api":"csp_Jianpian","searchable":1},
+    {"key":"csp_Dm84","name":"Dm84","type":3,"api":"csp_Dm84","searchable":1},
+    {"key":"csp_Yingshiche","name":"Yingshiche","type":3,"api":"csp_Yingshiche","searchable":1}
+  ]
+}
