@@ -1,43 +1,31 @@
 {
 	"urls": [{
-		"name": "xuxu1",
+		"name": "❤️xuxu1",
 		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xukai19891114/xu_tv_box/main/my-tvbox-custom/config/xu1.json"
 	},
 	{
-		"name": "xuxu2",
+		"name": "❤️xuxu2",
 		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xukai19891114/xu_tv_box/main/my-tvbox-custom/config/xu2.json"
 	},
 	{
-		"name": "xuxu3",
+		"name": "❤️❤️动漫xuxu3",
 		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xukai19891114/xu_tv_box/main/my-tvbox-custom/config/xu3.json"
 	},
 	{
-		"name": "xuxu4",
+		"name": "❤️❤️❤️搜索片源多xuxu4",
 		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xukai19891114/xu_tv_box/main/my-tvbox-custom/config/xu4.json"
 	},
 	{
-		"name": "xu5-4k",
-		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xukai19891114/xu_tv_box/main/my-tvbox-custom/config/xu5-4k.json"
-	},
-	{
-		"name": "xu6-4k",
-		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xukai19891114/xu_tv_box/main/my-tvbox-custom/config/xu6-4k.json"
-	},
-	{
-		"name": "xu7-4k",
+		"name": "❤️xu7-4k",
 		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xukai19891114/xu_tv_box/main/my-tvbox-custom/config/xu7-4k.json"
 	},
 	{
-		"name": "xu8",
+		"name": "❤️xu8",
 		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xukai19891114/xu_tv_box/main/my-tvbox-custom/config/xu8.json"
 	},
 	{
-		"name": "xu9",
+		"name": "❤️❤️直播体育频道多xu9",
 		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xukai19891114/xu_tv_box/main/my-tvbox-custom/config/xu9.json"
-	},
-	{
-		"name": "xu10",
-		"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xukai19891114/xu_tv_box/main/my-tvbox-custom/config/xu10.json"
 	}
 	]
 }
